@@ -1,0 +1,13 @@
+.box {
+    background-color: #527ED7;
+    align-items: center;
+    padding: 10px;
+}
+
+.title {
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
